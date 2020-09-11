@@ -846,12 +846,12 @@
                     var eid = 'r' + rn;
                     blink(eid, rt);
                     rt += 250;
-                    if (rt > 40000) vs = 0;
+                    if (rt > 1500000) vs = 0;
                 }
            document.getElementById('m11').style.visibility="visible";
            document.getElementById('m12').style.visibility="visible";
            
-           document.getElementById("a44").onclick = setInterval("rott()", 2);
+           document.getElementById("a44").onclick = setInterval("rott()");
            
          setTimeout(function()
          {
@@ -1236,11 +1236,11 @@
                     var eid1 = 'o' + rn1;
                     blink1(eid1, rt1);
                     rt1 += 250;
-                    if (rt1 > 40000) vs1 = 0;
+                    if (rt1 > 1500000) vs1 = 0;
                 }
            document.getElementById('n11').style.visibility="visible";
            document.getElementById('n12').style.visibility="visible";
-           document.getElementById("b44").onclick = setInterval("rott1()", 2);
+           document.getElementById("b44").onclick = setInterval("rott1()");
          setTimeout(function()
          {
          myInt = setInterval(function(){ animatearrow(); }, 500);
@@ -1963,14 +1963,14 @@
 var val = 1;
 
 function rott() {
-    val = val + 1;
+    val = val + 0.5;
     document.getElementById('m12').style.webkitTransform = "rotate(" + val + "deg)";
     document.getElementById('m12').style.mozTransform = "rotate(" + val + "deg)";
 }
 var val1 = 1;
 
 function rott1() {
-    val1 = val1 + 1;
+    val1 = val1 + 1.5;
     document.getElementById('n12').style.webkitTransform = "rotate(" + val1 + "deg)";
     document.getElementById('n12').style.mozTransform = "rotate(" + val1 + "deg)";
 }
