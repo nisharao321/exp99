@@ -152,6 +152,11 @@ margin-top: -30px;
 
 }
 
+
+
+@keyframes rotateRight{
+    100%{ transform:rotate(360deg); }
+}
 .input:hover .tooltip1 {
     background: black;
     border-radius: 3px;
