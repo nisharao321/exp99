@@ -838,8 +838,13 @@
         myInt = setInterval(function(){ animatearrow(); }, 500);
          animateArrowATPosition(750,320,20,720);
          document.getElementById("a88").onclick=function() {
+
            myStopFunction();
+
            this.onclick = null;
+             document.getElementById('m11').style.visibility="visible";
+           document.getElementById('m12').style.visibility="visible";
+           
             var vs = 1;
             while (vs == 1)
                 for (let rn = 0; rn < 4; rn++) {
@@ -848,10 +853,8 @@
                     rt += 250;
                     if (rt > 1500000) vs = 0;
                 }
-           document.getElementById('m11').style.visibility="visible";
-           document.getElementById('m12').style.visibility="visible";
-           
-           document.getElementById("a44").onclick = setInterval("rott()");
+          
+           //document.getElementById("a44").onclick = setInterval("rott()");
            
          setTimeout(function()
          {
@@ -1230,6 +1233,8 @@
          document.getElementById("b88").onclick=function() {
            myStopFunction();
            this.onclick = null;
+           document.getElementById('n11').style.visibility="visible";
+           document.getElementById('n12').style.visibility="visible";
             var vs1 = 1;
             while (vs1 == 1)
                 for (let rn1 = 0; rn1 < 4; rn1++) {
@@ -1238,9 +1243,8 @@
                     rt1 += 250;
                     if (rt1 > 1500000) vs1 = 0;
                 }
-           document.getElementById('n11').style.visibility="visible";
-           document.getElementById('n12').style.visibility="visible";
-           document.getElementById("b44").onclick = setInterval("rott1()");
+           
+           //document.getElementById("b44").onclick = setInterval("rott1()");
          setTimeout(function()
          {
          myInt = setInterval(function(){ animatearrow(); }, 500);
@@ -1960,17 +1964,17 @@
                 }
             }
 
-var val = 1;
+// var val = 1;
 
-function rott() {
-    val = val + 0.5;
-    document.getElementById('m12').style.webkitTransform = "rotate(" + val + "deg)";
-    document.getElementById('m12').style.mozTransform = "rotate(" + val + "deg)";
-}
-var val1 = 1;
+// function rott() {
+//     val = val + 1;
+//     document.getElementById('m12').style.webkitTransform = "rotate(" + val + "deg)";
+//     document.getElementById('m12').style.mozTransform = "rotate(" + val + "deg)";
+// }
+// var val1 = 1;
 
-function rott1() {
-    val1 = val1 + 1.5;
-    document.getElementById('n12').style.webkitTransform = "rotate(" + val1 + "deg)";
-    document.getElementById('n12').style.mozTransform = "rotate(" + val1 + "deg)";
-}
+// function rott1() {
+//     val1 = val1 + 2;
+//     document.getElementById('n12').style.webkitTransform = "rotate(" + val1 + "deg)";
+//     document.getElementById('n12').style.mozTransform = "rotate(" + val1 + "deg)";
+// }
