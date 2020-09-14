@@ -337,7 +337,7 @@
          document.getElementById('a44').style.visibility = "hidden";
          document.getElementById('arrow2').style.visibility="hidden";
          document.getElementById('wind').style.visibility="hidden";
-         document.getElementById('a2').style.visibility="hidden";
+//         document.getElementById('a2').style.visibility="hidden";
          document.getElementById('a5').style.visibility="hidden";
          document.getElementById('a6').style.visibility="hidden";
          myInt = setInterval(function(){ animatearrow(); }, 500);
@@ -509,7 +509,7 @@
         refresh('right','right1','right2');
          refresh1('h1','h2','h3');
         fillTable2(0);
-        console.log(p);
+       // console.log(p);
          highlight1();
          p=p-1;
          calc2('button2-1','output2-1','output2-1','button2-1','output2-1','button2-2','button2-1','wrong2-1','wrong2-1','right2-1','button2-2','h2-1','h2-1','output2-1','wrong2-1','right2-1','right2-1','h2-1','h2-1','button2-1',0);
@@ -542,7 +542,7 @@
          document.getElementById('mm').style.visibility="hidden";
          document.getElementById('arrows1').style.display = "none";
 
-         display('b03','b44','b2','b5','b6','arrow2','wind','can-1','can-2','can-3','n-1');
+         display('b03','b44','b44','b5','b6','arrow2','wind','can-1','can-2','can-3','n-1');
          document.getElementById('n11').style.display = "none";
          document.getElementById('n12').style.display = "none";
          document.getElementById('n-2').style.visibility="visible";
@@ -833,15 +833,14 @@
        document.getElementById('arrow2').style.visibility = "visible";
        // document.getElementById('m9').style.opacity='1';
        // document.getElementById('m10').style.opacity='1';
-       setTimeout(function()
-       {
+    
         myInt = setInterval(function(){ animatearrow(); }, 500);
          animateArrowATPosition(750,320,20,720);
          document.getElementById("a88").onclick=function() {
 
            myStopFunction();
 
-           this.onclick = null;
+       document.getElementById("a88").onclick="";
              document.getElementById('m11').style.visibility="visible";
            document.getElementById('m12').style.visibility="visible";
            
@@ -896,13 +895,13 @@
         };
        },1200);
       };
-     },1200);
+    
     }
 
      function blink(eid, rt) {
     setTimeout(function() {
         document.getElementById(eid).style.visibility = "visible";
-                console.log(eid);
+               // console.log(eid);
 
     }, rt);
     rt += 250;
@@ -1291,7 +1290,7 @@
      function blink1(eid1, rt1) {
     setTimeout(function() {
         document.getElementById(eid1).style.visibility = "visible";
-                console.log(eid1);
+              //  console.log(eid1);
 
     }, rt1);
     rt1 += 250;
@@ -1338,7 +1337,7 @@
                  document.getElementById("b3-1").style.marginLeft = boxHandMargin + 'px';
                  setTimeout(function()
                  {
-                   document.getElementById('b3-2').style.visibility="hidden";
+                  // document.getElementById('b3-2').style.visibility="hidden";
                    document.getElementById('par').innerHTML="Static Head:";
                    document.getElementById('par1').innerHTML="Left Limb Reading="+data3[p][1]+" cm";
                    setTimeout(function()
@@ -1417,7 +1416,6 @@
                                        document.getElementById("b4-11").style.marginLeft = boxHandMargin + 'px';
                                        setTimeout(function()
                                        {
-                                       document.getElementById('b4-22').style.visibility="hidden";
                                        document.getElementById('par22').innerHTML="Right Limb Reading="+data3[p][5]+" cm";
                                        document.getElementById('par33').innerHTML="Difference="+data3[p][6]+" cm";
                                        setTimeout(function()
@@ -1445,7 +1443,6 @@
                                        document.getElementById("b31-11").style.marginLeft = boxHandMargin + 'px';
                                        setTimeout(function()
                                        {
-                                       document.getElementById('b31-22').style.visibility="hidden";
                                        document.getElementById('par0').innerHTML="Velocity Head:";
                                        document.getElementById('par12-2').innerHTML="Left Limb Reading="+data3[p][7]+" cm";
                                        setTimeout(function()
@@ -1463,7 +1460,6 @@
                                        document.getElementById("b41-11").style.marginLeft = boxHandMargin + 'px';
                                        setTimeout(function()
                                        {
-                                       document.getElementById('b4-2').style.visibility="hidden";
                                        document.getElementById('par22-2').innerHTML="Right Limb Reading="+data3[p][8]+" cm";
                                        document.getElementById('par33-2').innerHTML="Difference="+data3[p][9]+" cm";
                                        document.getElementById('Sample55').style.visibility="visible";
@@ -1541,7 +1537,7 @@
       para_button1,para_button,para_wrong,para_wrong,para_right,para_button1,
       para_h1,para_h1,para_output,para_wrong,para_right,para_right,para_h1,para_h1,para_button,k )
      {
-      console.log(p);
+  //    console.log(p);
        var flag1=0;
        document.getElementById(para_button).onclick=function() {
          n= document.getElementById(para_output).value;
