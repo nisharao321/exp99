@@ -901,8 +901,7 @@
      function blink(eid, rt) {
     setTimeout(function() {
         document.getElementById(eid).style.visibility = "visible";
-               // console.log(eid);
-
+               // console.log(eid)
     }, rt);
     rt += 250;
     setTimeout(function() {
@@ -1398,12 +1397,10 @@
                                        document.getElementById("b3-11").style.marginLeft = boxHandMargin + 'px';
                                        setTimeout(function()
                                        {
-                                       document.getElementById('b3-11').style.visibility="hidden";
+                                       document.getElementById('b3-11').style.display="none";
                                        document.getElementById('parr').innerHTML="Total Head:";
                                        document.getElementById('par11').innerHTML="Left Limb Reading="+data3[p][4]+" cm";
-                                       setTimeout(function()
-                                       {
-                                       document.getElementById('b3-11').style.display="none";
+                                       
                                        document.getElementById('b4-11').style.visibility="visible";
                                        setTimeout(function()
                                        {
@@ -1484,7 +1481,6 @@
                              },2000);
                             }
                            },2000);
-                          },2000);
                          },2000);
                         }
                        },6000);
