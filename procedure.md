@@ -1,68 +1,62 @@
 ##### These procedure steps will be followed on the simulator
 
-1. When you click on a Resistance and k-factor in the ventilation duct file, a new window will open as shown below. <br>
-<img src="images/R1.png"><br>
+1. When you click on a Backward bladed axial fan file, a new window will open as shown below.<br>
+<img src="images/R1.PNG"><br>
 
 2. Click on the slider to rotate so that current comes in the circuit board. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R2.png"><br>
+<img src="images/R2.PNG"><br>
 
 3. Click on the power button to start the motor. <br>
 <img src="images/R3.png"><br>
 
 4. Click on the knob to set rpm of 300 and click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R4.png"><br>
+<img src="images/R4.PNG"><br>
 
 5. Click on the hand to measure the inclination of manometer.<br>
-<img src="images/R5.png"><br>
+<img src="images/R5.PNG"><br>
 
-6. Click on the DROPDOWN to answer the question.<br>
-<img src="images/R6.png"><br>
+6. Click on the corner below arrow to proceed next.<br>
+<img src="images/R6.PNG"><br>
 
-7. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R7.png"><br>
+7. Take the following precautions before taking the reading. And click the OK button to continue the experiment.<br>
+<img src="images/R7.PNG"><br>
 
-8. Click on the DROPDOWN to answer the question.<br>
-<img src="images/R8.png"><br>
+8. Keep the cardboard in front of the ventilation duct. And click on the hand to connect the rubber tube of manometer with pitot tube at point 1.<br>
+<img src="images/R8.PNG"><br>
 
-9. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R9.png"><br>
+9. Click on the mover to take the static head reading from manometer.
+<img src="images/R9.PNG"><br>
 
-10. Click on the OK button.<br>
-<img src="images/R10.png"><br>
+9. Now, connect the rubber tube to total head and take the readings at point 1.<br>
+<img src="images/R10.PNG"><br>
 
-11. Click on the hand to connect the rubber tube of manometer with pitot tube at point 1.<br>
+10. This time connect the rubber tubes to the velocity head and take the readings.<br>
 <img src="images/R11.png"><br>
 
-12. Click on the big hand to take static head reading from manometer.<br>
-<img src="images/R12.png"><br>
+11. After this repeat the same procedure for the 8 more trials. And click on the NEXT button to proceed for the further readings  <br>
+<img src="images/R12.PNG"><br>
 
-13. Repeat the procedure no 11 and 12 for taking reading of total head and velocity head at point 1 in ventilation duct. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
+12. click on the NEXT button to proceed next.
 <img src="images/R13.png"><br>
 
-14. The observation for point 1 is given below and put the required value in calculation to check your results.<br>
+13. Prepare the observation table for the experiment. Check the required values by inputting the data.<br>
 <img src="images/R14.png"><br>
 
-15. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
+14. When result comes true after checking, press the arrow for further process.<br>
 <img src="images/R15.png"><br>
 
-16. Click on the hand to connect the rubber tube of manometer with pitot tube at point 2.<br>
-<img src="images/R16.png"><br>
+15. Plot graph of Axial load Vs Penetration.<br>
+<img src="images/R16.PNG"><br>
 
-17. Click on the big hand to take static head reading from manometer.<br>
-<img src="images/R17.png"><br>
+16. Observe the nature of graph and click on the below arrow to proceed next.<br>
+<img src="images/R17.PNG"><br>
 
-18. Repeat the procedure no 16 and 17 for taking reading of total head and velocity head at point 1 in ventilation duct. . Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R18.png"><br>
+17. Repeat the same procedure for the speed of 400 RPM.<br>
+<img src="images/R18.PNG"><br>
 
-19. The observation for point 2 is given below and put the required value in calculation to check your results.<br>
-<img src="images/R19.png"><br>
+18. We will get graph for 400rpm similar to 300rpm and click on the arrow to proceed to the next step.<br>
+<img src="images/R19.PNG"><br>
 
-20. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R20.png"><br>
-
-21. Click on the NEXT button at the bottom right corner to proceed to the next step.<br>
-<img src="images/R21.png"><br>
-
-22. Now you can see the result in the last step.<br>
-<img src="images/R22.png"><br>
+19.	Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below<br>
+<img src="images/R20.PNG"><br>
 
