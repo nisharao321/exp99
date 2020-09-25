@@ -33,7 +33,7 @@
 11. This time connect the rubber tubes to the pitot tubes velocity head and take the readings.<br>
 <img src="images/R11.png"><br>
 
-12. After this repeat the same procedure for the 8 more trials. And click on the NEXT button to proceed for the further readings  <br>
+12. Click on the OK button to proceed the experiment.  <br>
 <img src="images/R12.PNG"><br>
 
 13. click on the NEXT button to proceed to the next step.
