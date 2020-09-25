@@ -19,7 +19,7 @@
 <p style="text-indent:50px;text-align:justify">Characteristics curve for various type of fans:</p>
 
 <ol style="text-indent:50px;text-align:justify;list-style-position: inside;">
-<li><p style="text-indent:50px;text-align:justify">The pressure characteristics or the pressure volume curve of a backward bladed fan falls fairly steadily from a maximum pressure at low volume to zero at maximum pressure at low volume to zero at volume, while that of a forward bladed fan remains fairly constant for a wide range of volume but falls steeply as maximum volume is reached. In case of axial flow fan maximum water gauge is developed at zero volume and not at the low volume as in the other two cases.</p>
+<li><p style="text-indent:50px;text-align:justify">The pressure characteristics or the pressure volume curve of a backward bladed fan falls fairly steadily from a maximum pressure at low volume to zero volume, while that of a forward bladed fan remains fairly constant for a wide range of volume but falls steeply as maximum volume is reached. In case of axial flow fan maximum water gauge is developed at zero volume and not at the low volume as in the other two cases.</p>
 </li>
 <li><p style="text-indent:50px;text-align:justify">The power characteristics or the B.H.P curve of a backward bladed fan is almost a rising straight line passing above the origin, tending to flatten and then to fall with increasing volume, thereby showing that power increases with increase of volume, but as maximum volume is approached, power becomes almost constant and then decreases. Thus it indicate the non-overloading feature backward bladed.</p>
 <p style="text-indent:50px;text-align:justify">
