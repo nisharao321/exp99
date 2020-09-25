@@ -59,7 +59,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 </center><br><br>
 
 <center>
-  <img src="images/graph3.png" height="250" width="425">
+  <img src="images/graph3.png" height="270" width="325">
 </center>
 <center>Characteristics curve showing stall region.</center><br>
 <center>Source: (<a href="http://www.honsan-tech.com.tw/Web/EN/Technical%20Information_Impedance%20Curve-en1.html">http://www.honsan-tech.com.tw/Web/EN/Technical%20Information_Impedance%20Curve-en1.html</a>)
