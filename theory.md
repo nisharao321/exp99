@@ -38,7 +38,6 @@ Efficiency characteristics of axial flow fan differ valuation from the other two
 A mine characteristic is a curve showing the pressure quantity relationship of the mine, that is, it indicates what quantity of air will pass through the mine when the given pressure is applied across the mine opening, or vice versa. It is the curve of equation P=RQ<sup>2</sup>, where R is the resistance of the mine. Such a curve for roadways is called the characteristic curve of that roadway.</p>
 <p style="text-indent:50px;text-align:justify">
 The point of intersection of the mine characteristic with the pressure-volume curve of the mine, when both of them are plotted on the same scale, gives an "operating point" which indicates the pressure and volume for which the fan is automatic but suited. If the corresponding efficiency figure lies near the apex of the efficiency curve, the fan will work efficiently and economically.</p>
-
 </li>
 </ol>
 
