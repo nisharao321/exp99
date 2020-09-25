@@ -54,7 +54,7 @@
 18. Repeat the same procedure for the speed of 400 rpm.<br>
 <img src="images/R18.PNG"><br>
 
-19. We will get graph for 400rpm similar to 300 rpm and click on the NEXT button to proceed to the next step.<br>
+19. We will get graph for 400 rpm similar to 300 rpm and click on the NEXT button to proceed to the next step.<br>
 <img src="images/R19.PNG"><br>
 
 20.	Click on refer graph to see graph at 300 and 400 rpm. Results and conclusion are given below<br>
