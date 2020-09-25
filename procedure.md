@@ -27,7 +27,7 @@
 9. Click on the mover to take the static head reading from manometer.
 <img src="images/R9.PNG"><br>
 
-10. Now, connect the rubber tube to pitot tubes total head and take the readings at point 1.<br>
+10. Now, connect the rubber tube to pitot tubes total head and take the readings.<br>
 <img src="images/R10.PNG"><br>
 
 11. This time connect the rubber tubes to the pitot tubes velocity head and take the readings.<br>
