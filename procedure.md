@@ -43,7 +43,7 @@
 <img src="images/R14.png"><br>
 
 15. When result comes true after checking, press the arrow for further process.<br>
-<img src="images/R15.png"><br>
+<img src="images/R15.PNG"><br>
 
 16. Plot graph of Axial load Vs Penetration for 300 rpm.<br>
 <img src="images/R16.PNG"><br>
