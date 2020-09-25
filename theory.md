@@ -39,7 +39,7 @@ Mine characteristic curves corresponding to resistances, which the mine is antic
 <p style="text-indent:50px;text-align:justify">
 For a developing mine, the operating point should be preferably lie to the left of the peak of efficiency curve, so that as the mine is developed, the resulting increases in quantity will shift the operating point to the right, that is, to the peak of the efficiency curve.</p>
 <p style="text-indent:50px;text-align:justify">
-In all types of fan,the operating point should be fixed to the right of the aerodynamic "stall point" which is the point of reverse flexure, for at capacities less than this performance of the fan becomes unstable and there occurs fluctuation of air velocity characterized by throbbing and noise.</p>
+In all types of fan, the operating point should be fixed to the right of the aerodynamic "stall point" which is the point of reverse flexure, for at capacities less than this performance of the fan becomes unstable and there occurs fluctuation of air velocity characterized by throbbing and noise.</p>
 </li>
 </ol>
 
