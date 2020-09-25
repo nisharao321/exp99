@@ -43,7 +43,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 </ol>
 
 <center>
-  <img src="images/graph1.png" height="253" width="300">
+  <img src="images/graph1.png" height="250" width="425">
 </center>
 <center>Characteristics curve of axial fan</center><br>
 <center>Source: (<a href="https://www.engineeringtoolbox.com/fan-types-d_142.html">https://www.engineeringtoolbox.com/fan-types-d_142.html
@@ -51,7 +51,7 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 </center><br><br>
 
 <center>
-  <img src="images/graph2.png" height="253" width="300">
+  <img src="images/graph2.png" height="250" width="425">
 </center>
 <center>Characteristics curve representing operating point</center><br>
 <center>Source: (<a href="https://www.axair-fans.co.uk/all-technical-information/duty-point-operating-point/">https://www.axair-fans.co.uk/all-technical-information/duty-point-operating-point/ 
@@ -59,14 +59,14 @@ The point of intersection of the mine characteristic with the pressure-volume cu
 </center><br><br>
 
 <center>
-  <img src="images/graph3.png" height="253" width="300">
+  <img src="images/graph3.png" height="250" width="425">
 </center>
 <center>Characteristics curve showing stall region.</center><br>
 <center>Source: (<a href="http://www.honsan-tech.com.tw/Web/EN/Technical%20Information_Impedance%20Curve-en1.html">http://www.honsan-tech.com.tw/Web/EN/Technical%20Information_Impedance%20Curve-en1.html</a>)
 </center><br><br>
 
 <center>
-  <img src="images/graph4.png" height="253" width="300">
+  <img src="images/graph4.png" height="250" width="425">
 </center>
 <center>Characteristics curve of different fan.</center><br>
 <center>Source: (<a href="https://www.cibsejournal.com/cpd/modules/2011-12/">https://www.cibsejournal.com/cpd/modules/2011-12/
